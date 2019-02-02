@@ -25,7 +25,7 @@ dependencies {
     implementation 'org.slf4j:slf4j-api:1.7.25' // renovate should not bump this (1.8 doesn't have a stable release)
 
     // Use JUnit test framework
-    testImplementation 'junit:junit:4.12'
+    testImplementation 'junit:junit:4.13-beta-2'
 }
 
 // Define the main class for the application
